@@ -22,11 +22,11 @@ _Note: You may need to add “sudo” in front of any global commands to install
 
 ## Screen shot
 
-<img width="242" alt="forgotpassword_screen" src="https://user-images.githubusercontent.com/38101699/38363173-0200a8e8-3917-11e8-8aa4-6cf6da4f8635.png">
-<img width="242" alt="login_screen" src="https://user-images.githubusercontent.com/38101699/38363174-022e03ba-3917-11e8-99d4-585c930abbd9.png">
-<img width="242" alt="register_screen" src="https://user-images.githubusercontent.com/38101699/38363175-026a7aca-3917-11e8-83df-b94a355b82b4.png">
-<img width="243" alt="search_screen" src="https://user-images.githubusercontent.com/38101699/38363176-029d7ea2-3917-11e8-9676-eac90a6785ca.png">
-<img width="244" alt="welcome_screen" src="https://user-images.githubusercontent.com/38101699/38363178-02cbb330-3917-11e8-88b2-8a387e9410b7.png">
+<img width="30%" alt="forgotpassword_screen" src="https://user-images.githubusercontent.com/38101699/38363173-0200a8e8-3917-11e8-8aa4-6cf6da4f8635.png">
+<img width="30%" alt="login_screen" src="https://user-images.githubusercontent.com/38101699/38363174-022e03ba-3917-11e8-99d4-585c930abbd9.png">
+<img width="30%" alt="register_screen" src="https://user-images.githubusercontent.com/38101699/38363175-026a7aca-3917-11e8-83df-b94a355b82b4.png">
+<img width="30%" alt="search_screen" src="https://user-images.githubusercontent.com/38101699/38363176-029d7ea2-3917-11e8-9676-eac90a6785ca.png">
+<img width="30%" alt="welcome_screen" src="https://user-images.githubusercontent.com/38101699/38363178-02cbb330-3917-11e8-88b2-8a387e9410b7.png">
 
 ## Deploying
 
