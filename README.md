@@ -3,12 +3,12 @@
 This is the official MyPark demo app, showcasing a variety of Ionic Framework components and native features.
 
 ## Table of Contents
- - [Welcome Page]
- - [Login Page]
- - [Register Page]
- - [Forgot Password Page]
- - [CategoriesPage ]
 
+* [Welcome Page]
+* [Login Page]
+* [Register Page]
+* [Forgot Password Page]
+* [CategoriesPage ]
 
 ## Getting Started
 
@@ -20,9 +20,17 @@ This is the official MyPark demo app, showcasing a variety of Ionic Framework co
 
 _Note: You may need to add “sudo” in front of any global commands to install the utilities._
 
+## Screen shot
+
+<img width="242" alt="forgotpassword_screen" src="https://user-images.githubusercontent.com/38101699/38363173-0200a8e8-3917-11e8-8aa4-6cf6da4f8635.png">
+<img width="242" alt="login_screen" src="https://user-images.githubusercontent.com/38101699/38363174-022e03ba-3917-11e8-99d4-585c930abbd9.png">
+<img width="242" alt="register_screen" src="https://user-images.githubusercontent.com/38101699/38363175-026a7aca-3917-11e8-83df-b94a355b82b4.png">
+<img width="243" alt="search_screen" src="https://user-images.githubusercontent.com/38101699/38363176-029d7ea2-3917-11e8-9676-eac90a6785ca.png">
+<img width="244" alt="welcome_screen" src="https://user-images.githubusercontent.com/38101699/38363178-02cbb330-3917-11e8-88b2-8a387e9410b7.png">
+
 ## Deploying
 
 * PWA - Un-comment [this](https://github.com/fzancanaro/mySydneyPark), run `npm run ionic:build --prod` and then push the `www` folder to your favorite hosting service
 * Android - Run `ionic cordova run android --prod`
-  - If you are deploying to Android 4.4 or below we recommend adding crosswalk: `cordova plugin add cordova-plugin-crosswalk-webview`
+  * If you are deploying to Android 4.4 or below we recommend adding crosswalk: `cordova plugin add cordova-plugin-crosswalk-webview`
 * iOS - Run `ionic cordova run ios --prod`
