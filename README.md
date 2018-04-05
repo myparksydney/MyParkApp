@@ -22,11 +22,11 @@ _Note: You may need to add “sudo” in front of any global commands to install
 
 ## Screen shot
 
-<img src="https://user-images.githubusercontent.com/38101699/38363173-0200a8e8-3917-11e8-8aa4-6cf6da4f8635.png" width="30%" alt="forgotpassword_screen" >
+<img src="https://user-images.githubusercontent.com/38101699/38363178-02cbb330-3917-11e8-88b2-8a387e9410b7.png" width="30%" alt="welcome_screen" >
 <img  src="https://user-images.githubusercontent.com/38101699/38363174-022e03ba-3917-11e8-99d4-585c930abbd9.png" width="30%" alt="login_screen">
+<img src="https://user-images.githubusercontent.com/38101699/38363173-0200a8e8-3917-11e8-8aa4-6cf6da4f8635.png" width="30%" alt="forgotpassword_screen" >
 <img  src="https://user-images.githubusercontent.com/38101699/38363175-026a7aca-3917-11e8-83df-b94a355b82b4.png" width="30%" alt="register_screen">
 <img src="https://user-images.githubusercontent.com/38101699/38363176-029d7ea2-3917-11e8-9676-eac90a6785ca.png" width="30%" alt="search_screen" >
-<img src="https://user-images.githubusercontent.com/38101699/38363178-02cbb330-3917-11e8-88b2-8a387e9410b7.png" width="30%" alt="welcome_screen" >
 
 ## Deploying
 
